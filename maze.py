@@ -1,4 +1,3 @@
-#создай игру "Лабиринт"!
 from pygame import *
 
 class GameSprite(sprite.Sprite):
